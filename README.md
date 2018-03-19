@@ -1,7 +1,7 @@
 # Welcome to software for Science
 
 1. [Load balancing for CERN](https://softwareforscience.github.io/projects/LoadbalancingCern) 
-2. [Monitioring for CERN](https://github.com/SoftwareForScience/SoftwareForScience.github.io/MonitoringCern)
+2. [Monitioring for CERN](https://github.com/SoftwareForScience/SoftwareForScience.github.io/projects/MonitoringCern)
 3. [Bookkeeping for CERN]()
 4. [Visualising for ASTRON]()
 5. [Monitoring for ASTRON]()
