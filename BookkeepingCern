@@ -1,0 +1,2 @@
+#Bookkeeping for CERN
+The data which is produced by ALICE is reconstructed, calibrated and analysed. Everything which happens to these data is being registered. The AUAS develops the system doing this bookkeeping. Two teams are working on this project: a front end team and a back end team. The front end team focuses on the input and display of data. The back end team works on the REST API, database and logic of the system. After the minor you are able to apply continuous integration such as automatic unit tests and code analysis to your own projects.
