@@ -1,4 +1,4 @@
-# Welcome to software for Science
+# Welcome to Software for Science
 
 1. [Load balancing for CERN](https://softwareforscience.github.io/projects/LoadbalancingCern) 
 2. [Monitioring for CERN](https://SoftwareForScience.github.io/projects/MonitoringCern)
