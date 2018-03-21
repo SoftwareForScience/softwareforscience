@@ -1,9 +1,13 @@
 # Minor Software for Science
 The minor Software for Science consists of:
-* [bootcamp] ( SoftwareForScience.github.io/minor/bootcamp.md )
-* [the course scientific methods]
-* [the course scientific programming]
-* [a variety of projects]
+
+* [bootcamp](SoftwareForScience.github.io/minor/bootcamp.md)
+
+* [the course scientific methods](SoftwareForScience.github.io/minor/scientific_method.md)
+
+* [the course scientific programming](SoftwareForScience.github.io/minor/scientific_programming.md)
+
+* [a variety of projects](SoftwareForScience.github.io/minor/projects.md)
 
 
 
