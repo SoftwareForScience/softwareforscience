@@ -11,7 +11,7 @@ Here you can find more information about Software for Science. Software for Scie
 
 Software for Science offers various ways to participate:
 * minor
-* summerschool
+* summerschool ( SoftwareForScience.github.io/summerschool/overview.md )
 * internship
 
 
