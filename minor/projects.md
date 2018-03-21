@@ -1,4 +1,4 @@
-#Projects
+# Projects
 The projects we work on at this moment are:
 
 1. [Load balancing for CERN](https://softwareforscience.github.io/projects/LoadbalancingCern) 
