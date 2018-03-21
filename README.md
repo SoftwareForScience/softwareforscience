@@ -8,4 +8,4 @@
 6. [Via Appia](https://SoftwareForScience.github.io/projects/ViaAppia)
 7. [Pulsar detection](https://SoftwareForScience.github.io/projects/Pulsardetection)
 
-[Have a look at the poster](https://SoftwareForScience.github.io/images/poster_minor_2018.pdf)
+[Have a look at the poster](https://SoftwareForScience.github.io/images/minor_poster_2018.pdf)
