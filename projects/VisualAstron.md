@@ -14,13 +14,12 @@ A​ ​ new​ ​ technology​ ​ that​ ​ is​ ​ currently​ ​ app
 displays.​ ​ In​ ​ this​ ​ project​ ​ we​ ​ intend​ ​ to​ ​ investigate​ ​ how​ ​ these​ ​ fairly​ ​ affordable​ ​ consumer
 grade​ ​ devices​ ​ can​ ​ be​ ​ used​ ​ by​ ​ a ​ ​ radio-astronomer​ ​ to​ ​ more​ ​ effectively​ ​ explore​ ​ their​ ​ data.
 
-**How​ ​ it​ ​ works:**
+**How​ ​ it​ ​ works**
 
 This​ ​ investigation​ ​ involves​ ​ implementing​ ​ a ​ ​ visualiser​ ​ for​ ​ standard
 radio-astronomical​ ​ data-cubes​ ​ for​ ​ VR​ ​ devices.​ ​ This​ ​ may​ ​ involve​ ​ data​ ​ that​ ​ resides​ ​ on
 remote​ ​ cluster​ ​ hardware,​ ​ since​ ​ the​ ​ volume​ ​ of​ ​ these​ ​ data​ ​ sets​ ​ of​ ​ often​ ​ such​ ​ that​ ​ local
 storage​ ​ of​ ​ these​ ​ is​ ​ often​ ​ not​ ​ feasible.
-
 
 **Key​ ​ benefits**
 
