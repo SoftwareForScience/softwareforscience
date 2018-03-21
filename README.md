@@ -9,6 +9,7 @@ Here you can find more information about Software for Science. Software for Scie
 6. [Via Appia](https://SoftwareForScience.github.io/projects/ViaAppia)
 7. [Pulsar detection](https://SoftwareForScience.github.io/projects/Pulsardetection)
 
+
 Software for Science offers various ways to participate:
 
 * minor ( SoftwareForScience.github.io/minor/overview.md )
