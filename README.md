@@ -12,10 +12,10 @@ Here you can find more information about Software for Science. Software for Scie
 
 Software for Science offers various ways to participate:
 
-*  [minor]( https://SoftwareForScience.github.io/minor/overview.md )
+*  [minor]( https://SoftwareForScience.github.io/minor/overview )
 
-*  [summerschool]( https://SoftwareForScience.github.io/summerschool/overview.md )
+*  [summerschool]( https://SoftwareForScience.github.io/summerschool/overview )
 
-*  [internship]( https://SoftwareForScience.github.io/internship/overview.md )
+*  [internship]( https://SoftwareForScience.github.io/internship/overview )
 
 
