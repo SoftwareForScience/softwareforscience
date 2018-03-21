@@ -1,4 +1,5 @@
 # Welcome to Software for Science
+Here you can find more information about Software for Science. Software for Science is a minor, summerschool and a place where interns can work. In all its a research institute of some sort. The project we work on at this moment are:
 
 1. [Load balancing for CERN](https://softwareforscience.github.io/projects/LoadbalancingCern) 
 2. [Monitioring for CERN](https://SoftwareForScience.github.io/projects/MonitoringCern)
