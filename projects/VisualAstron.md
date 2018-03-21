@@ -1,5 +1,6 @@
 # Visualising high-dimensional data sets for ASTRON
 **The idea**
+
 Improve scientific analysis of high-dimensional data sets with affordable virtual reality gear.
 
 **Background**
