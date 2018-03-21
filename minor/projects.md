@@ -1,4 +1,6 @@
 # Projects
+Each team consisting of three or four students delivers a product. Teams work according to an agile method. The product is accompanied by a technical report, written by the team and several research papers written by each team member individually. An assesment of the work done is organised to evaluate the product. For the project you can earn 14 ects.
+
 The projects we work on at this moment are:
 
 1. [Load balancing for CERN](https://softwareforscience.github.io/projects/LoadbalancingCern) 
