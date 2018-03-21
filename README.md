@@ -10,8 +10,11 @@ Here you can find more information about Software for Science. Software for Scie
 7. [Pulsar detection](https://SoftwareForScience.github.io/projects/Pulsardetection)
 
 Software for Science offers various ways to participate:
+
 * minor ( SoftwareForScience.github.io/minor/overview.md )
+
 * summerschool ( SoftwareForScience.github.io/summerschool/overview.md )
+
 * internship ( SoftwareForScience.github.io/internship/overview.md )
 
 
