@@ -1,3 +1,6 @@
 theme: jekyll-theme-architect
-name: Software for science
+title: Software for science
 description: Website Software for Science
+
+github:
+  repository_url: https://github.com/SoftwareForScience
