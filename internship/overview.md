@@ -1,7 +1,7 @@
 # Internship
 
 
-![Image of Yaktocat](/images/interns.jpeg){:width="60% height="auto"}
+![Picture of the interns at CERN]({{site.baseurl}}/images/interns.jpeg){:width="60% height="auto"}
 
 Software for Science welcomes students who want to do their final internship working on a project for CERN. The projects open for interns are:
 
