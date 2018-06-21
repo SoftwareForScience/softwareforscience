@@ -3,12 +3,12 @@ Software is indispensible in contemporary research. But most often not very much
 
 The minor Software for Science consists of:
 
-* [bootcamp](https://SoftwareForScience.github.io/minor/bootcamp)
+* [bootcamp](/minor/bootcamp)
 
-* [the course scientific methods](https://SoftwareForScience.github.io/minor/scientific_method)
+* [the course scientific methods](/minor/scientific_method)
 
-* [the course scientific programming](https://SoftwareForScience.github.io/minor/scientific_programming)
+* [the course scientific programming](/minor/scientific_programming)
 
-* [a variety of projects](https://SoftwareForScience.github.io/minor/projects)
+* [a variety of projects](/minor/projects)
 
-[Have a look at the poster](https://SoftwareForScience.github.io/images/minor_poster_2018.pdf)
+[Have a look at the poster](/images/minor_poster_2018.pdf)
