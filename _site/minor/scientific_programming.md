@@ -1,2 +1,0 @@
-# Scientific programming
-More than commercial software scientific programs need to be transparant, sustainable and tenable. To accomplish these non-functional requirements you will study subjects such as the FAIR-principles, design patterns, testing, other best practices and several other subjects. This course will be taught during period one and two. An exam and assignment have to be passed to earn 6 ects.
