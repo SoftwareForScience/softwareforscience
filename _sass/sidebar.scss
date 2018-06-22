@@ -3,6 +3,8 @@ $sidebar-color: rgb(50, 40, 75);
 $sidebar-secondary-color:  #fff;
 $sidebar-secondary-font-color: $sidebar-color;
 
+$sidebar-desktop-width: 200px;
+$sidebar-mobile-width: 100px;
 
 body {
     display: flex;
@@ -11,9 +13,10 @@ body {
 
 .sidebar {
 
-
-    min-width: 250px;
-    max-width: 250px;
+    @media (min-width: 768px ) {
+        min-width: $sidebar-desktop-width;
+        max-width: $sidebar-desktop-width;
+    }
     background: $sidebar-color;
     color: $sidebar-secondary-color;
     transition: all 0.3s;
@@ -28,8 +31,9 @@ body {
 }
 
 .sidebar.active {
-    min-width: 80px;
-    max-width: 80px;
+
+    min-width: $sidebar-mobile-width;
+    max-width: $sidebar-mobile-width;
     text-align: center;
 
     .sidebar-header h3 {
@@ -160,27 +164,12 @@ a.dropdown-toggle[data-toggle="collapse"] {
     }
 }
 
-/* ---------------------------------------------------
-    CONTENT STYLE
------------------------------------------------------ */
-
-main {
-    width: 100%;
-   // padding: 20px;
-    min-height: 100vh;
-    //transition: all 0.3s;
-}
-
-
-
-
-
 @media (max-width: 768px) {
     .sidebar {
-        min-width: 80px;
-        max-width: 80px;
+        min-width: $sidebar-mobile-width;
+        max-width: $sidebar-mobile-width;
         text-align: center;
-        margin-left: -80px !important;
+        margin-left: -$sidebar-mobile-width !important;
         
         .sidebar-header h3 {
             display: none;
@@ -232,4 +221,11 @@ main {
     .sidebar.active {
         margin-left: 0 !important;
     }
+}
+
+main {
+    width: 100%;
+   // padding: 20px;
+    min-height: 100vh;
+    //transition: all 0.3s;
 }
