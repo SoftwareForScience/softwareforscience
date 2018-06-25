@@ -1,4 +1,7 @@
 # Load balancing for the ALICE Collaboration
+![[Picture of the interns at CERN](http://aliceinfo.cern.ch/Public/Welcome.html)]({{site.baseurl}}/assets/images/AliceLogo.png){:ahref="http://aliceinfo.cern.ch/Public/Welcome.html"}
+
+
 Since 2017 the Amsterdam University of Applied Sciences collaborates with CERN by doing research for ALICE. ALICE detects the collision between large ions such as lead resulting in quark-gluon plasma which is believed to have existed just a few milliseconds after the Big Bang. After the quark-gluon plasma is resolved an enormous number of particles is emitted and detected by ALICE. The detection is transformed into data which has to be processed and made available for physicists doing research on the smallest particles imaginable.
 
 The enormous number of particles generates a data stream of approximately 1.1 Terabyte per second received by 268 First Level Processors. From the FLPs the data stream has to be distributed among 1500 Event Processing Nodes which assemble all the data produced during a specific time frame. The research for CERN done by the Amsterdam University of Applied Sciences focuses on the load balancing of the data stream between the FLPs and EPNs.
