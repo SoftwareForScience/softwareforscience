@@ -1,3 +1,6 @@
+---
+site.title: Summerschool
+---
 # Summerschool
 The summerschool starts at Monday 3 July and finishes at Friday 13 July. 
 
