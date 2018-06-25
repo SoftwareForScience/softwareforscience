@@ -11,4 +11,4 @@ The minor Software for Science consists of:
 
 * [a variety of projects]({{site.baseurl}}/minor/projects)
 
-[Have a look at the poster]({{site.baseurl}}/images/minor_poster_2018.pdf)
+[Have a look at the poster]({{site.baseurl}}/assets/images/minor_poster_2018.pdf)
