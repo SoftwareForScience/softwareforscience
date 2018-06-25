@@ -12,8 +12,19 @@
      //       $('.sidebar').toggleClass('active')
      //   })
 
+   
+     
+
         $('#sidebar-collapse').on('click', function () {
             $('.sidebar').toggleClass('active');
         })
+    })
+
+    window.addEventListener('resize', () => {
+    
+        if(window.innerHeight < window.innerWidth){
+           
+            $('.sidebar').toggleClass('active')
+        }
     })
 })()

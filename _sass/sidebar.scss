@@ -10,7 +10,7 @@ $sidebar-secondary-color:  #fff;
 $sidebar-secondary-font-color: $sidebar-color;
 
 $sidebar-desktop-width: 250px;
-$sidebar-mobile-width: 100px;
+$sidebar-mobile-width: 200px;
 
 body {
     display: flex;
@@ -19,10 +19,6 @@ body {
 
 .sidebar {
 
-    @media (min-width: 768px ) {
-        min-width: $sidebar-desktop-width;
-        max-width: $sidebar-desktop-width;
-    }
     background: $sidebar-color;
     color: $sidebar-secondary-color;
     transition: all 0.3s;
@@ -31,7 +27,60 @@ body {
         text-align: left;
         color: $sidebar-secondary-color;
     }
-    
+
+    @media (min-width: 768px ) {
+        min-width: $sidebar-desktop-width;
+        max-width: $sidebar-desktop-width;
+    }
+
+    @media (max-width: 768px) {
+        min-width: $sidebar-mobile-width;
+        max-width: $sidebar-mobile-width;
+
+        text-align: center;
+        margin-left: -$sidebar-mobile-width !important;
+        
+        .sidebar-header h3 {
+            display: none;
+
+            strong {
+                display: block;
+            }
+        }
+
+        ul {
+        
+            li { 
+                a {
+                    padding: 20px 10px;
+                    span {
+                        font-size: 0.85em;
+                    }
+
+                    i {
+                        margin-right: 0;
+                        display: block;
+                    }
+                }
+
+                
+                i {
+                    font-size: 1.3em;
+                }
+
+                
+            }
+            ul a {
+                padding: 10px !important;
+            }
+
+        }
+
+        margin-left: 0;
+
+    }
+
+
 
 
 }
@@ -172,48 +221,10 @@ a.dropdown-toggle[data-toggle="collapse"] {
 
 @media (max-width: 768px) {
     .sidebar {
-        min-width: $sidebar-mobile-width;
-        max-width: $sidebar-mobile-width;
-        text-align: center;
-        margin-left: -$sidebar-mobile-width !important;
+
+  
+
         
-        .sidebar-header h3 {
-            display: none;
-
-            strong {
-                display: block;
-            }
-        }
-
-        ul {
-        
-            li { 
-                a {
-                    padding: 20px 10px;
-                    span {
-                        font-size: 0.85em;
-                    }
-
-                    i {
-                        margin-right: 0;
-                        display: block;
-                    }
-                }
-
-                
-                i {
-                    font-size: 1.3em;
-                }
-
-                
-            }
-            ul a {
-                padding: 10px !important;
-            }
-
-        }
-
-        margin-left: 0;
         
     }
     .dropdown-toggle::after {
