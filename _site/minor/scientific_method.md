@@ -1,2 +1,0 @@
-# Scientific method
-The course scientific method will elaborate on method to do research and statistics. You will need this knowledge to understand the methods used in science. As such it is part of the domain knowledge and context of your project. But you will need this knowledge also to do research yourself for the software you develop. Among others subjects you will study statistics, philosophy of science and methodology. This course will be part of period one and two. When you pass an exam and write a paper you will earn 6 ects.
