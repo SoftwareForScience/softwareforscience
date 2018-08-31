@@ -6,7 +6,10 @@ Since 2017 the Amsterdam University of Applied Sciences collaborates with CERN b
 
 The enormous number of particles generates a data stream of approximately 1.1 Terabyte per second received by 268 First Level Processors. From the FLPs the data stream has to be distributed among 1500 Event Processing Nodes which assemble all the data produced during a specific time frame. The research for CERN done by the Amsterdam University of Applied Sciences focuses on the load balancing of the data stream between the FLPs and EPNs.
 
-A team will work with computer scientists from CERN and the Amsterdam University of Applied Sciences. The tools you work with consist of C++, Cobbler, Ansible, CentOS and the framework FairRoot, among others. Experiments are done on a set of computers situated at Nikhef or CERN. It will be your job to create and describe experiments which enhance our understanding of the most adequate algorithm for load balancing at ALICE.
+![Raspberry Pi clusters for Load balancings]({{site.baseurl}}/assets/images/RaspberryPiCluster.JPG){:width="30% height="auto"}
+
+A team will work with computer scientists from CERN and the Amsterdam University of Applied Sciences. The tools you work with consist of C++, Cobbler, Ansible, CentOS and the framework FairRoot, among others. Experiments are done on a set of Raspberry Pi's on Amsterdam University of Applied Sciences. It will be your job to create and describe experiments which enhance our understanding of the most adequate algorithm for load balancing at ALICE.
 
 The Amsterdam University of Applied Sciences is looking for students Computer Science with an genuine interest for science and capable of creating excellent software. You will be working at the Amsterdam University of Applied Sciences.
+
 

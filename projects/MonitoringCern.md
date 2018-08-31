@@ -10,3 +10,4 @@ As a team you will work with computer scientists from CERN and the Amsterdam Uni
 
 The Amsterdam University of Applied Sciences is looking for students Computer Science and students who can make nice Graphical User Interfaces.. You will be working at the Amsterdam University of Applied Sciences. 
 
+![Raspberry Pi clusters for monitoring Astron]({{site.baseurl}}/assets/images/RaspberryPiCluster.JPG){:width="30% height="auto"}
