@@ -12,6 +12,6 @@ The data produced by ALICE is being studied by physicists to discover the workin
 
 As a team you will work with computer scientists from CERN and the Amsterdam University of Applied Sciences. Because this project is just started, requirements and processes still have to be defined and will be part of your job. Implementation of a part of the system will also be done when time permits and you are interested in doing so. The tools you work with consist of NodeJS, JQuery, relational databases and other technologies. This project is done by two teams, i.e. a front end team and a back end team.
 
-
 The Amsterdam University of Applied Sciences is looking for students Computer Science and students who can make nice Graphical User Interfaces. You will be working at the Amsterdam University of Applied Sciences. 
 
+![The bookkeeping system is used when they start commission detector parts]({{site.baseurl}}/assets/images/Cern1.JPG){:width="30% height="auto"}

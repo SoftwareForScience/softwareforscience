@@ -14,3 +14,5 @@ Node​ ​ level​ ​ metrics​ ​ can​ ​ be​ ​ collected​ ​ us
 **Key​ ​ benefits**
 
 Adding​ ​ energy​ ​ consumption​ ​ metrics​ ​ to​ ​ the​ ​ host​ ​ of​ ​ other​ ​ information​ ​ that can​ ​ be​ ​ collected​ ​ during​ ​ the​ ​ lifetime​ ​ of​ ​ a ​ ​ cluster​ ​ we​ ​ expect​ ​ to​ ​ get​ ​ more​ ​ insight​ ​ in​ ​ the relation​ ​ between​ ​ component​ ​ level​ ​ energy​ ​ consumption​ ​ and​ ​ performance​ ​ and​ ​ utilisation of​ ​ the​ ​ cluster.
+
+![Raspberry Pi clusters for Monitoring Astron]({{site.baseurl}}/assets/images/RaspberryPiCluster.JPG){:width="30% height="auto"}
